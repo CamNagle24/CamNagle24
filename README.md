@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello! My name is Cameron Nagle and I'm a current Comp Sci Major & UX Minor at the University of Minnesota - Twin Cities. I have loved learning about web design and all the fun things you can create for companies visions. Through my time studying, and through my several projects I am proficient in Python, C, C++, Java, OCaml, and much more. Seeking Software Development/UX Opportunities.
 
 <!--
 **CamNagle24/CamNagle24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
