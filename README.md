@@ -12,3 +12,5 @@ I'm a current Comp Sci Major & UX Minor at the University of Minnesota - Twin Ci
 
 ### My Favorite Project Repos
 * <a href="https://github.com/CamNagle24/nagle-portfolio">Portfolio</a> - Everything about me!
+* <a href="https://github.com/CamNagle24/Contact_Hash_Table">Contact Hash Table</a> - Organizing Contacts
+* <a href="https://github.com/CamNagle24/Range-Slider">Range Slider</a> - A Fun Number Slider
