@@ -7,8 +7,10 @@ I'm a current Comp Sci Major & UX Minor at the University of Minnesota - Twin Ci
 
 ### What I Work With
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/
-C++-00599C?style=for-the-badge&logo=c++&logoColor=white"> <img
-src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img
+C++-00599C?style=for-the-badge&
+logo=c++&logoColor=white"> <img
+src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&
+logo=c&logoColor=white"> <img
 src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white">
 
 ...and many others
